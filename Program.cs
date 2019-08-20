@@ -11,8 +11,8 @@ namespace example_generate_pdf_report_dotnet
         // Generates a PDF report using a collection of objects.
         // The collection of objects is in the SimpleReportWithCoverPageExampleData class.
         // This code uses the DynamicPDF ReportWriter for .NET product.
-        // Import the ceTe.DynamicPDF namespace for the Document class.
-        // Import the ceTe.DynamicPDF.LayoutEngine namespace for the DocumentLayout class.
+        // Use the ceTe.DynamicPDF namespace for the Document class.
+        // Use the ceTe.DynamicPDF.LayoutEngine namespace for the DocumentLayout class.
         static void Main(string[] args)
         {
             // Create DocumentLayout object using the DLEX (report layout) file
