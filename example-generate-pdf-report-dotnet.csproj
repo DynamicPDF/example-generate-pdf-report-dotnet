@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ceTe.DynamicPDF.CoreSuite.NET" Version="10.15.0.39333" />
+    <PackageReference Include="ceTe.DynamicPDF.CoreSuite.NET" Version="10.19.0.40019" />
   </ItemGroup>
 
 </Project>
